@@ -1,0 +1,3680 @@
+[
+  {
+    "id": 105778,
+    "title": {
+      "romaji": "Chainsaw Man",
+      "native": "\u30c1\u30a7\u30f3\u30bd\u30fc\u30de\u30f3"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Horror",
+      "Supernatural"
+    ],
+    "averageScore": 85,
+    "popularity": 321934
+  },
+  {
+    "id": 105398,
+    "title": {
+      "romaji": "Na Honjaman Level Up",
+      "native": "\ub098 \ud63c\uc790\ub9cc \ub808\ubca8\uc5c5"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 84,
+    "popularity": 276303
+  },
+  {
+    "id": 101517,
+    "title": {
+      "romaji": "Jujutsu Kaisen",
+      "native": "\u546a\u8853\u5efb\u6226"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+    ],
+    "averageScore": 80,
+    "popularity": 244677
+  },
+  {
+    "id": 30002,
+    "title": {
+      "romaji": "Berserk",
+      "native": "\u30d9\u30eb\u30bb\u30eb\u30af"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Psychological"
+    ],
+    "averageScore": 92,
+    "popularity": 236635
+  },
+  {
+    "id": 30013,
+    "title": {
+      "romaji": "ONE PIECE",
+      "native": "ONE PIECE"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": 91,
+    "popularity": 225413
+  },
+  {
+    "id": 53390,
+    "title": {
+      "romaji": "Shingeki no Kyojin",
+      "native": "\u9032\u6483\u306e\u5de8\u4eba"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "averageScore": 84,
+    "popularity": 222833
+  },
+  {
+    "id": 87216,
+    "title": {
+      "romaji": "Kimetsu no Yaiba",
+      "native": "\u9b3c\u6ec5\u306e\u5203"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "averageScore": 79,
+    "popularity": 205019
+  },
+  {
+    "id": 63327,
+    "title": {
+      "romaji": "Tokyo Ghoul",
+      "native": "\u6771\u4eac\u55b0\u7a2e \u30c8\u30fc\u30ad\u30e7\u30fc\u30b0\u30fc\u30eb"
+    },
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "averageScore": 84,
+    "popularity": 189468
+  },
+  {
+    "id": 34632,
+    "title": {
+      "romaji": "Oyasumi Punpun",
+      "native": "\u304a\u3084\u3059\u307f\u30d7\u30f3\u30d7\u30f3"
+    },
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Slice of Life"
+    ],
+    "averageScore": 88,
+    "popularity": 180044
+  },
+  {
+    "id": 85486,
+    "title": {
+      "romaji": "Boku no Hero Academia",
+      "native": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 78,
+    "popularity": 174913
+  },
+  {
+    "id": 74347,
+    "title": {
+      "romaji": "One Punch-Man",
+      "native": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "averageScore": 85,
+    "popularity": 169071
+  },
+  {
+    "id": 30656,
+    "title": {
+      "romaji": "Vagabond",
+      "native": "\u30d0\u30ac\u30dc\u30f3\u30c9"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "averageScore": 91,
+    "popularity": 156484
+  },
+  {
+    "id": 108556,
+    "title": {
+      "romaji": "SPY\u00d7FAMILY",
+      "native": "SPY\u00d7FAMILY"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "averageScore": 83,
+    "popularity": 155919
+  },
+  {
+    "id": 30642,
+    "title": {
+      "romaji": "Vinland Saga",
+      "native": "\u30f4\u30a3\u30f3\u30e9\u30f3\u30c9\u30fb\u30b5\u30ac"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "averageScore": 90,
+    "popularity": 133846
+  },
+  {
+    "id": 87423,
+    "title": {
+      "romaji": "Yakusoku no Neverland",
+      "native": "\u7d04\u675f\u306e\u30cd\u30d0\u30fc\u30e9\u30f3\u30c9"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Thriller"
+    ],
+    "averageScore": 79,
+    "popularity": 130831
+  },
+  {
+    "id": 119257,
+    "title": {
+      "romaji": "Jeonjijeok Dokja Sijeom",
+      "native": "\uc804\uc9c0\uc801 \ub3c5\uc790 \uc2dc\uc810"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 86,
+    "popularity": 125487
+  },
+  {
+    "id": 72451,
+    "title": {
+      "romaji": "Horimiya",
+      "native": "\u30db\u30ea\u30df\u30e4"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 82,
+    "popularity": 120029
+  },
+  {
+    "id": 106130,
+    "title": {
+      "romaji": "Blue Lock",
+      "native": "\u30d6\u30eb\u30fc\u30ed\u30c3\u30af"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Sports"
+    ],
+    "averageScore": 82,
+    "popularity": 118585
+  },
+  {
+    "id": 86635,
+    "title": {
+      "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+      "native": "\u304b\u3050\u3084\u69d8\u306f\u544a\u3089\u305b\u305f\u3044\uff5e\u5929\u624d\u305f\u3061\u306e\u604b\u611b\u982d\u8133\u6226\uff5e"
+    },
+    "genres": [
+      "Comedy",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 87,
+    "popularity": 116595
+  },
+  {
+    "id": 30012,
+    "title": {
+      "romaji": "BLEACH",
+      "native": "BLEACH"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "averageScore": 80,
+    "popularity": 116365
+  },
+  {
+    "id": 102988,
+    "title": {
+      "romaji": "Tokyo\u534dRevengers",
+      "native": "\u6771\u4eac\u534d\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "averageScore": 74,
+    "popularity": 115674
+  },
+  {
+    "id": 132029,
+    "title": {
+      "romaji": "Dandadan",
+      "native": "\u30c0\u30f3\u30c0\u30c0\u30f3"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "averageScore": 82,
+    "popularity": 111692
+  },
+  {
+    "id": 97852,
+    "title": {
+      "romaji": "Komi-san wa, Komyushou desu.",
+      "native": "\u53e4\u898b\u3055\u3093\u306f\u3001\u30b3\u30df\u30e5\u75c7\u3067\u3059\u3002"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 77,
+    "popularity": 104772
+  },
+  {
+    "id": 30026,
+    "title": {
+      "romaji": "HUNTER\u00d7HUNTER",
+      "native": "HUNTER\u00d7HUNTER"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": 88,
+    "popularity": 104725
+  },
+  {
+    "id": 86123,
+    "title": {
+      "romaji": "Black Clover",
+      "native": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 77,
+    "popularity": 104234
+  },
+  {
+    "id": 117195,
+    "title": {
+      "romaji": "[Oshi no Ko]",
+      "native": "\u3010\u63a8\u3057\u306e\u5b50\u3011"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "averageScore": 78,
+    "popularity": 103942
+  },
+  {
+    "id": 30001,
+    "title": {
+      "romaji": "MONSTER",
+      "native": "MONSTER"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Thriller"
+    ],
+    "averageScore": 90,
+    "popularity": 103761
+  },
+  {
+    "id": 30003,
+    "title": {
+      "romaji": "20 Seiki Shounen",
+      "native": "20\u4e16\u7d00\u5c11\u5e74"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "averageScore": 88,
+    "popularity": 103623
+  },
+  {
+    "id": 120760,
+    "title": {
+      "romaji": "Kaijuu 8-gou",
+      "native": "\u602a\u7363\uff18\u53f7"
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageScore": 75,
+    "popularity": 103512
+  },
+  {
+    "id": 31706,
+    "title": {
+      "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run",
+      "native": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c6\u30a3\u30fc\u30eb\u30fb\u30dc\u30fc\u30eb\u30fb\u30e9\u30f3"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "averageScore": 92,
+    "popularity": 101162
+  },
+  {
+    "id": 87170,
+    "title": {
+      "romaji": "Fire Punch",
+      "native": "\u30d5\u30a1\u30a4\u30a2\u30d1\u30f3\u30c1"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "averageScore": 79,
+    "popularity": 100732
+  },
+  {
+    "id": 85611,
+    "title": {
+      "romaji": "Tokyo Ghoul:re",
+      "native": "\u6771\u4eac\u55b0\u7a2e-\u30c8\u30fc\u30ad\u30e7\u30fc\u30b0\u30fc\u30eb-:re"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "averageScore": 83,
+    "popularity": 100460
+  },
+  {
+    "id": 65243,
+    "title": {
+      "romaji": "Haikyuu!!",
+      "native": "\u30cf\u30a4\u30ad\u30e5\u30fc\uff01\uff01"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "averageScore": 89,
+    "popularity": 99694
+  },
+  {
+    "id": 85143,
+    "title": {
+      "romaji": "Sinui Tap",
+      "native": "\uc2e0\uc758 \ud0d1"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "averageScore": 81,
+    "popularity": 97356
+  },
+  {
+    "id": 30021,
+    "title": {
+      "romaji": "DEATH NOTE",
+      "native": "DEATH NOTE"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "averageScore": 84,
+    "popularity": 96701
+  },
+  {
+    "id": 30011,
+    "title": {
+      "romaji": "NARUTO",
+      "native": "NARUTO -\u30ca\u30eb\u30c8-"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "averageScore": 79,
+    "popularity": 96367
+  },
+  {
+    "id": 100994,
+    "title": {
+      "romaji": "Jigokuraku",
+      "native": "\u5730\u7344\u697d"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Supernatural"
+    ],
+    "averageScore": 81,
+    "popularity": 95405
+  },
+  {
+    "id": 101583,
+    "title": {
+      "romaji": "Sono Bisque Doll wa Koi wo Suru",
+      "native": "\u305d\u306e\u7740\u305b\u66ff\u3048\u4eba\u5f62\u306f\u604b\u3092\u3059\u308b"
+    },
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 79,
+    "popularity": 95254
+  },
+  {
+    "id": 85135,
+    "title": {
+      "romaji": "Koe no Katachi",
+      "native": "\u8072\u306e\u5f62"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 87,
+    "popularity": 88600
+  },
+  {
+    "id": 98416,
+    "title": {
+      "romaji": "Dr. STONE",
+      "native": "Dr.STONE"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "averageScore": 81,
+    "popularity": 86870
+  },
+  {
+    "id": 31133,
+    "title": {
+      "romaji": "Dorohedoro",
+      "native": "\u30c9\u30ed\u30d8\u30c9\u30ed"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "averageScore": 86,
+    "popularity": 85771
+  },
+  {
+    "id": 125828,
+    "title": {
+      "romaji": "SAKAMOTO DAYS",
+      "native": "SAKAMOTO DAYS"
+    },
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "averageScore": 80,
+    "popularity": 85732
+  },
+  {
+    "id": 30436,
+    "title": {
+      "romaji": "Uzumaki",
+      "native": "\u3046\u305a\u307e\u304d"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "averageScore": 79,
+    "popularity": 85392
+  },
+  {
+    "id": 118586,
+    "title": {
+      "romaji": "Sousou no Frieren",
+      "native": "\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 87,
+    "popularity": 81854
+  },
+  {
+    "id": 97553,
+    "title": {
+      "romaji": "Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",
+      "native": "\u5bff\u547d\u3092\u8cb7\u3044\u53d6\u3063\u3066\u3082\u3089\u3063\u305f\u3002\u4e00\u5e74\u306b\u3064\u304d\u3001\u4e00\u4e07\u5186\u3067\u3002"
+    },
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "averageScore": 86,
+    "popularity": 81338
+  },
+  {
+    "id": 146983,
+    "title": {
+      "romaji": "Sayonara Eri",
+      "native": "\u3055\u3088\u306a\u3089\u7d75\u68a8"
+    },
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "averageScore": 85,
+    "popularity": 80955
+  },
+  {
+    "id": 74489,
+    "title": {
+      "romaji": "Houseki no Kuni",
+      "native": "\u5b9d\u77f3\u306e\u56fd"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "averageScore": 89,
+    "popularity": 79666
+  },
+  {
+    "id": 30025,
+    "title": {
+      "romaji": "Hagane no Renkinjutsushi",
+      "native": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 89,
+    "popularity": 77737
+  },
+  {
+    "id": 98263,
+    "title": {
+      "romaji": "Tongari Boushi no Atelier",
+      "native": "\u3068\u3093\u304c\u308a\u5e3d\u5b50\u306e\u30a2\u30c8\u30ea\u30a8"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 87,
+    "popularity": 75453
+  },
+  {
+    "id": 107237,
+    "title": {
+      "romaji": "Blue Period",
+      "native": "\u30d6\u30eb\u30fc\u30d4\u30ea\u30aa\u30c9"
+    },
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "averageScore": 86,
+    "popularity": 75305
+  },
+  {
+    "id": 86964,
+    "title": {
+      "romaji": "Hurejasik",
+      "native": "\ud6c4\ub808\uc790\uc2dd"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Romance",
+      "Thriller"
+    ],
+    "averageScore": 83,
+    "popularity": 74892
+  },
+  {
+    "id": 100664,
+    "title": {
+      "romaji": "Ijiranaide, Nagatoro-san",
+      "native": "\u30a4\u30b8\u3089\u306a\u3044\u3067\u3001\u9577\u701e\u3055\u3093"
+    },
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 74,
+    "popularity": 74334
+  },
+  {
+    "id": 140475,
+    "title": {
+      "romaji": "Kaoru Hana wa Rin to Saku",
+      "native": "\u85ab\u308b\u82b1\u306f\u51db\u3068\u54b2\u304f"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "averageScore": 87,
+    "popularity": 74052
+  },
+  {
+    "id": 46765,
+    "title": {
+      "romaji": "Kingdom",
+      "native": "\u30ad\u30f3\u30b0\u30c0\u30e0"
+    },
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "averageScore": 89,
+    "popularity": 73507
+  },
+  {
+    "id": 30051,
+    "title": {
+      "romaji": "SLAM DUNK",
+      "native": "SLAM DUNK"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "averageScore": 90,
+    "popularity": 72075
+  },
+  {
+    "id": 33009,
+    "title": {
+      "romaji": "JoJo no Kimyou na Bouken: Stone Ocean",
+      "native": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "averageScore": 82,
+    "popularity": 71468
+  },
+  {
+    "id": 54705,
+    "title": {
+      "romaji": "Aku no Hana",
+      "native": "\u60e1\u306e\u83ef"
+    },
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance"
+    ],
+    "averageScore": 81,
+    "popularity": 70899
+  },
+  {
+    "id": 98842,
+    "title": {
+      "romaji": "Jibaku Shounen Hanako-kun",
+      "native": "\u5730\u7e1b\u5c11\u5e74 \u82b1\u5b50\u304f\u3093"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "averageScore": 85,
+    "popularity": 70250
+  },
+  {
+    "id": 105469,
+    "title": {
+      "romaji": "Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou",
+      "native": "\u546a\u8853\u5efb\u6226 0 \u6771\u4eac\u90fd\u7acb\u546a\u8853\u9ad8\u7b49\u5c02\u9580\u5b66\u6821"
+    },
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "averageScore": 80,
+    "popularity": 70039
+  },
+  {
+    "id": 30936,
+    "title": {
+      "romaji": "Homunculus",
+      "native": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "averageScore": 83,
+    "popularity": 69459
+  },
+  {
+    "id": 100230,
+    "title": {
+      "romaji": "Go-toubun no Hanayome",
+      "native": "\u4e94\u7b49\u5206\u306e\u82b1\u5ac1"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "averageScore": 77,
+    "popularity": 68549
+  },
+  {
+    "id": 37375,
+    "title": {
+      "romaji": "Kokou no Hito",
+      "native": "\u5b64\u9ad8\u306e\u4eba"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Psychological",
+      "Sports"
+    ],
+    "averageScore": 87,
+    "popularity": 68020
+  },
+  {
+    "id": 30564,
+    "title": {
+      "romaji": "GANTZ",
+      "native": "GANTZ"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Ecchi",
+      "Horror",
+      "Psychological",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "averageScore": 77,
+    "popularity": 67702
+  },
+  {
+    "id": 101233,
+    "title": {
+      "romaji": "Gokushufudou",
+      "native": "\u6975\u4e3b\u592b\u9053"
+    },
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "averageScore": 79,
+    "popularity": 67147
+  },
+  {
+    "id": 107098,
+    "title": {
+      "romaji": "Shuumatsu no Valkyrie",
+      "native": "\u7d42\u672b\u306e\u30ef\u30eb\u30ad\u30e5\u30fc\u30ec"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "averageScore": 77,
+    "popularity": 66689
+  },
+  {
+    "id": 30908,
+    "title": {
+      "romaji": "Soul Eater",
+      "native": "\u30bd\u30a6\u30eb\u30a4\u30fc\u30bf\u30fc"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "averageScore": 80,
+    "popularity": 66613
+  },
+  {
+    "id": 87395,
+    "title": {
+      "romaji": "Grand Blue",
+      "native": "\u3050\u3089\u3093\u3076\u308b"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life",
+      "Sports"
+    ],
+    "averageScore": 89,
+    "popularity": 65968
+  },
+  {
+    "id": 169355,
+    "title": {
+      "romaji": "Kagurabachi",
+      "native": "\u30ab\u30b0\u30e9\u30d0\u30c1"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 79,
+    "popularity": 64613
+  },
+  {
+    "id": 86310,
+    "title": {
+      "romaji": "Enen no Shouboutai",
+      "native": "\u708e\u708e\u30ce\u6d88\u9632\u968a"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "averageScore": 78,
+    "popularity": 64379
+  },
+  {
+    "id": 86218,
+    "title": {
+      "romaji": "Yagate Kimi ni Naru",
+      "native": "\u3084\u304c\u3066\u541b\u306b\u306a\u308b"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 86,
+    "popularity": 63936
+  },
+  {
+    "id": 30583,
+    "title": {
+      "romaji": "CLAYMORE",
+      "native": "CLAYMORE"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Horror"
+    ],
+    "averageScore": 81,
+    "popularity": 63852
+  },
+  {
+    "id": 86717,
+    "title": {
+      "romaji": "Wotaku ni Koi wa Muzukashii",
+      "native": "\u30f2\u30bf\u30af\u306b\u604b\u306f\u96e3\u3057\u3044"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 83,
+    "popularity": 63169
+  },
+  {
+    "id": 128067,
+    "title": {
+      "romaji": "SSS-geup Jugeoya Saneun Hunter",
+      "native": "SSS\uae09 \uc8fd\uc5b4\uc57c \uc0ac\ub294 \ud5cc\ud130"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "averageScore": 83,
+    "popularity": 63166
+  },
+  {
+    "id": 98397,
+    "title": {
+      "romaji": "Chi no Wadachi",
+      "native": "\u8840\u306e\u8f4d"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Psychological"
+    ],
+    "averageScore": 80,
+    "popularity": 63035
+  },
+  {
+    "id": 111233,
+    "title": {
+      "romaji": "Yofukashi no Uta",
+      "native": "\u3088\u3075\u304b\u3057\u306e\u3046\u305f"
+    },
+    "genres": [
+      "Comedy",
+      "Psychological",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "averageScore": 81,
+    "popularity": 62884
+  },
+  {
+    "id": 30149,
+    "title": {
+      "romaji": "BLAME!",
+      "native": "BLAME!"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "averageScore": 81,
+    "popularity": 62564
+  },
+  {
+    "id": 100568,
+    "title": {
+      "romaji": "Supyeongseon",
+      "native": "\uc218\ud3c9\uc120"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Psychological"
+    ],
+    "averageScore": 85,
+    "popularity": 62318
+  },
+  {
+    "id": 144946,
+    "title": {
+      "romaji": "Gachiakuta",
+      "native": "\u30ac\u30c1\u30a2\u30af\u30bf"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 81,
+    "popularity": 62071
+  },
+  {
+    "id": 30104,
+    "title": {
+      "romaji": "Yotsuba to!",
+      "native": "\u3088\u3064\u3070\u3068\uff01"
+    },
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "averageScore": 88,
+    "popularity": 61929
+  },
+  {
+    "id": 136807,
+    "title": {
+      "romaji": "Look Back",
+      "native": "\u30eb\u30c3\u30af\u30d0\u30c3\u30af"
+    },
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "averageScore": 83,
+    "popularity": 61845
+  },
+  {
+    "id": 140407,
+    "title": {
+      "romaji": "Yeokdaegeum Yeongji Seolgyesa",
+      "native": "\uc5ed\ub300\uae09 \uc601\uc9c0 \uc124\uacc4\uc0ac"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": 90,
+    "popularity": 61167
+  },
+  {
+    "id": 99943,
+    "title": {
+      "romaji": "Kanojo, Okarishimasu",
+      "native": "\u5f7c\u5973\u3001\u304a\u501f\u308a\u3057\u307e\u3059"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Romance"
+    ],
+    "averageScore": 58,
+    "popularity": 61103
+  },
+  {
+    "id": 54692,
+    "title": {
+      "romaji": "Noragami",
+      "native": "\u30ce\u30e9\u30ac\u30df"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "averageScore": 82,
+    "popularity": 61102
+  },
+  {
+    "id": 79865,
+    "title": {
+      "romaji": "Ajin",
+      "native": "\u4e9c\u4eba"
+    },
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "averageScore": 80,
+    "popularity": 61059
+  },
+  {
+    "id": 55515,
+    "title": {
+      "romaji": "JoJo no Kimyou na Bouken: JoJolion",
+      "native": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b8\u30e7\u30b8\u30e7\u30ea\u30aa\u30f3"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "averageScore": 85,
+    "popularity": 60221
+  },
+  {
+    "id": 54294,
+    "title": {
+      "romaji": "Ao Haru Ride",
+      "native": "\u30a2\u30aa\u30cf\u30e9\u30a4\u30c9"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 79,
+    "popularity": 59663
+  },
+  {
+    "id": 86399,
+    "title": {
+      "romaji": "Tensei Shitara Slime Datta Ken",
+      "native": "\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": 82,
+    "popularity": 58772
+  },
+  {
+    "id": 114960,
+    "title": {
+      "romaji": "MASHLE",
+      "native": "\u30de\u30c3\u30b7\u30e5\u30eb-MASHLE-"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": 75,
+    "popularity": 58327
+  },
+  {
+    "id": 116186,
+    "title": {
+      "romaji": "Shounen no Abyss",
+      "native": "\u5c11\u5e74\u306e\u30a2\u30d3\u30b9"
+    },
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance"
+    ],
+    "averageScore": 68,
+    "popularity": 56534
+  },
+  {
+    "id": 86551,
+    "title": {
+      "romaji": "Made in Abyss",
+      "native": "\u30e1\u30a4\u30c9\u30a4\u30f3\u30a2\u30d3\u30b9"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "averageScore": 85,
+    "popularity": 56260
+  },
+  {
+    "id": 30028,
+    "title": {
+      "romaji": "NANA",
+      "native": "NANA"
+    },
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 88,
+    "popularity": 56078
+  },
+  {
+    "id": 30598,
+    "title": {
+      "romaji": "FAIRY TAIL",
+      "native": "FAIRY TAIL"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "averageScore": 70,
+    "popularity": 55791
+  },
+  {
+    "id": 61499,
+    "title": {
+      "romaji": "Nisekoi",
+      "native": "\u30cb\u30bb\u30b3\u30a4"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 75,
+    "popularity": 55327
+  },
+  {
+    "id": 33031,
+    "title": {
+      "romaji": "Pandora Hearts",
+      "native": "\u30d1\u30f3\u30c9\u30e9\u30cf\u30fc\u30c4"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "averageScore": 84,
+    "popularity": 55283
+  },
+  {
+    "id": 30336,
+    "title": {
+      "romaji": "GTO",
+      "native": "GTO"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Ecchi"
+    ],
+    "averageScore": 86,
+    "popularity": 54663
+  },
+  {
+    "id": 126297,
+    "title": {
+      "romaji": "Iphagyongbyeong",
+      "native": "\uc785\ud559\uc6a9\ubcd1"
+    },
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "averageScore": 79,
+    "popularity": 54232
+  },
+  {
+    "id": 74485,
+    "title": {
+      "romaji": "Nanatsu no Taizai",
+      "native": "\u4e03\u3064\u306e\u5927\u7f6a"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 70,
+    "popularity": 54065
+  },
+  {
+    "id": 100954,
+    "title": {
+      "romaji": "Sweet Home",
+      "native": "\uc2a4\uc704\ud2b8\ud648"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "averageScore": 82,
+    "popularity": 53932
+  },
+  {
+    "id": 85849,
+    "title": {
+      "romaji": "ReLife",
+      "native": "\u30ea\u30e9\u30a4\u30d5"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 85,
+    "popularity": 53901
+  },
+  {
+    "id": 69883,
+    "title": {
+      "romaji": "Ansatsu Kyoushitsu",
+      "native": "\u6697\u6bba\u6559\u5ba4"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "averageScore": 81,
+    "popularity": 53434
+  },
+  {
+    "id": 85141,
+    "title": {
+      "romaji": "God of High School",
+      "native": "\uac13 \uc624\ube0c \ud558\uc774\uc2a4\ucfe8"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 76,
+    "popularity": 53239
+  },
+  {
+    "id": 86082,
+    "title": {
+      "romaji": "Dungeon Meshi",
+      "native": "\u30c0\u30f3\u30b8\u30e7\u30f3\u98ef"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 88,
+    "popularity": 53237
+  },
+  {
+    "id": 51525,
+    "title": {
+      "romaji": "Akatsuki no Yona",
+      "native": "\u6681\u306e\u30e8\u30ca"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 87,
+    "popularity": 52593
+  },
+  {
+    "id": 33731,
+    "title": {
+      "romaji": "Solanin",
+      "native": "\u30bd\u30e9\u30cb\u30f3"
+    },
+    "genres": [
+      "Drama",
+      "Music",
+      "Slice of Life"
+    ],
+    "averageScore": 81,
+    "popularity": 52548
+  },
+  {
+    "id": 132182,
+    "title": {
+      "romaji": "Ao no Hako",
+      "native": "\u30a2\u30aa\u306e\u30cf\u30b3"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Sports"
+    ],
+    "averageScore": 81,
+    "popularity": 52523
+  },
+  {
+    "id": 106064,
+    "title": {
+      "romaji": "Mato Seihei no Slave",
+      "native": "\u9b54\u90fd\u7cbe\u5175\u306e\u30b9\u30ec\u30a4\u30d6"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 74,
+    "popularity": 52428
+  },
+  {
+    "id": 30042,
+    "title": {
+      "romaji": "Dragon Ball",
+      "native": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "averageScore": 84,
+    "popularity": 52196
+  },
+  {
+    "id": 30745,
+    "title": {
+      "romaji": "PLUTO",
+      "native": "PLUTO"
+    },
+    "genres": [
+      "Drama",
+      "Mecha",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "averageScore": 85,
+    "popularity": 51668
+  },
+  {
+    "id": 33986,
+    "title": {
+      "romaji": "Deadman Wonderland",
+      "native": "\u30c7\u30c3\u30c9\u30de\u30f3\u30fb\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "averageScore": 74,
+    "popularity": 50692
+  },
+  {
+    "id": 86559,
+    "title": {
+      "romaji": "Golden Kamuy",
+      "native": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "averageScore": 86,
+    "popularity": 49949
+  },
+  {
+    "id": 97830,
+    "title": {
+      "romaji": "Fumetsu no Anata e",
+      "native": "\u4e0d\u6ec5\u306e\u3042\u306a\u305f\u3078"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Supernatural"
+    ],
+    "averageScore": 80,
+    "popularity": 49632
+  },
+  {
+    "id": 44790,
+    "title": {
+      "romaji": "Magi",
+      "native": "\u30de\u30ae"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 81,
+    "popularity": 48658
+  },
+  {
+    "id": 87178,
+    "title": {
+      "romaji": "BORUTO: NARUTO NEXT GENERATIONS",
+      "native": "BORUTO-\u30dc\u30eb\u30c8- -NARUTO NEXT GENERATIONS-"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "averageScore": 67,
+    "popularity": 48568
+  },
+  {
+    "id": 30657,
+    "title": {
+      "romaji": "Real",
+      "native": "\u30ea\u30a2\u30eb"
+    },
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Sports"
+    ],
+    "averageScore": 89,
+    "popularity": 48426
+  },
+  {
+    "id": 85412,
+    "title": {
+      "romaji": "Shoujo Shuumatsu Ryokou",
+      "native": "\u5c11\u5973\u7d42\u672b\u65c5\u884c"
+    },
+    "genres": [
+      "Adventure",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "averageScore": 86,
+    "popularity": 48219
+  },
+  {
+    "id": 85189,
+    "title": {
+      "romaji": "Mob Psycho 100",
+      "native": "\u30e2\u30d6\u30b5\u30a4\u30b3100"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "averageScore": 85,
+    "popularity": 48110
+  },
+  {
+    "id": 98587,
+    "title": {
+      "romaji": "BEASTARS",
+      "native": "BEASTARS"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 81,
+    "popularity": 48036
+  },
+  {
+    "id": 105393,
+    "title": {
+      "romaji": "Gwihwanjaui Mabeobeun Teukbyeolhaeya Hamnida",
+      "native": "\uadc0\ud658\uc790\uc758 \ub9c8\ubc95\uc740 \ud2b9\ubcc4\ud574\uc57c \ud569\ub2c8\ub2e4"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 76,
+    "popularity": 47927
+  },
+  {
+    "id": 38967,
+    "title": {
+      "romaji": "Onani Master Kurosawa",
+      "native": "\u30aa\u30ca\u30cb\u30fc\u30de\u30b9\u30bf\u30fc\u9ed2\u6ca2"
+    },
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance"
+    ],
+    "averageScore": 82,
+    "popularity": 47671
+  },
+  {
+    "id": 149544,
+    "title": {
+      "romaji": "Ki ni Natteru Hito ga Otoko ja Nakatta",
+      "native": "\u6c17\u306b\u306a\u3063\u3066\u308b\u4eba\u304c\u7537\u3058\u3083\u306a\u304b\u3063\u305f"
+    },
+    "genres": [
+      "Music",
+      "Romance"
+    ],
+    "averageScore": 82,
+    "popularity": 47494
+  },
+  {
+    "id": 137280,
+    "title": {
+      "romaji": "Na Honja Mallep Newbie",
+      "native": "\ub098 \ud63c\uc790 \ub9cc\ub819 \ub274\ube44"
+    },
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "averageScore": 77,
+    "popularity": 47351
+  },
+  {
+    "id": 126693,
+    "title": {
+      "romaji": "Choujin X",
+      "native": "\u8d85\u4ebaX"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Psychological"
+    ],
+    "averageScore": 76,
+    "popularity": 47146
+  },
+  {
+    "id": 75757,
+    "title": {
+      "romaji": "Shokugeki no Souma",
+      "native": "\u98df\u621f\u306e\u30bd\u30fc\u30de"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi"
+    ],
+    "averageScore": 74,
+    "popularity": 47076
+  },
+  {
+    "id": 55132,
+    "title": {
+      "romaji": "Akame ga Kill!",
+      "native": "\u30a2\u30ab\u30e1\u304c\u65ac\u308b\uff01"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "averageScore": 74,
+    "popularity": 46724
+  },
+  {
+    "id": 31517,
+    "title": {
+      "romaji": "JoJo no Kimyou na Bouken: Phantom Blood",
+      "native": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30d5\u30a1\u30f3\u30c8\u30e0\u30d6\u30e9\u30c3\u30c9"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "averageScore": 70,
+    "popularity": 46718
+  },
+  {
+    "id": 85564,
+    "title": {
+      "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+      "native": "\u7121\u8077\u8ee2\u751f \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "averageScore": 78,
+    "popularity": 45890
+  },
+  {
+    "id": 30664,
+    "title": {
+      "romaji": "AKIRA",
+      "native": "AKIRA"
+    },
+    "genres": [
+      "Action",
+      "Horror",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "averageScore": 84,
+    "popularity": 45824
+  },
+  {
+    "id": 106758,
+    "title": {
+      "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+      "native": "\u9670\u306e\u5b9f\u529b\u8005\u306b\u306a\u308a\u305f\u304f\u3066\uff01"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": 80,
+    "popularity": 45602
+  },
+  {
+    "id": 86300,
+    "title": {
+      "romaji": "Tomo-chan wa Onnanoko!",
+      "native": "\u30c8\u30e2\u3061\u3083\u3093\u306f\u5973\u306e\u5b50!"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 77,
+    "popularity": 45436
+  },
+  {
+    "id": 85307,
+    "title": {
+      "romaji": "Bungou Stray Dogs",
+      "native": "\u6587\u8c6a\u30b9\u30c8\u30ec\u30a4\u30c9\u30c3\u30b0\u30b9"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "averageScore": 83,
+    "popularity": 45263
+  },
+  {
+    "id": 85215,
+    "title": {
+      "romaji": "All You Need Is Kill",
+      "native": "All You Need Is Kill"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Psychological",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "averageScore": 74,
+    "popularity": 45244
+  },
+  {
+    "id": 86770,
+    "title": {
+      "romaji": "Totsukuni no Shoujo",
+      "native": "\u3068\u3064\u304f\u306b\u306e\u5c11\u5973"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "averageScore": 82,
+    "popularity": 45066
+  },
+  {
+    "id": 120980,
+    "title": {
+      "romaji": "Nano Machine",
+      "native": "\ub098\ub178\ub9c8\uc2e0"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "averageScore": 81,
+    "popularity": 44778
+  },
+  {
+    "id": 105097,
+    "title": {
+      "romaji": "Mieruko-chan",
+      "native": "\u898b\u3048\u308b\u5b50\u3061\u3083\u3093"
+    },
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "averageScore": 77,
+    "popularity": 44627
+  },
+  {
+    "id": 99022,
+    "title": {
+      "romaji": "Kusuriya no Hitorigoto",
+      "native": "\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068"
+    },
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "averageScore": 85,
+    "popularity": 44450
+  },
+  {
+    "id": 98328,
+    "title": {
+      "romaji": "Jagaaaaaan",
+      "native": "\u30b8\u30e3\u30ac\u30fc\u30f3"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "averageScore": 73,
+    "popularity": 43821
+  },
+  {
+    "id": 119521,
+    "title": {
+      "romaji": "Bukgeom Jeongi",
+      "native": "\ubd81\uac80\uc804\uae30"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 85,
+    "popularity": 43545
+  },
+  {
+    "id": 86848,
+    "title": {
+      "romaji": "Oemo Jisangjuui",
+      "native": "\uc678\ubaa8\uc9c0\uc0c1\uc8fc\uc758"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Supernatural"
+    ],
+    "averageScore": 78,
+    "popularity": 43502
+  },
+  {
+    "id": 106929,
+    "title": {
+      "romaji": "Eleceed",
+      "native": "\uc77c\ub809\uc2dc\ub4dc"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "averageScore": 85,
+    "popularity": 43380
+  },
+  {
+    "id": 39711,
+    "title": {
+      "romaji": "Bakuman.",
+      "native": "\u30d0\u30af\u30de\u30f3\u3002"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 81,
+    "popularity": 43329
+  },
+  {
+    "id": 73661,
+    "title": {
+      "romaji": "Owari no Seraph",
+      "native": "\u7d42\u308f\u308a\u306e\u30bb\u30e9\u30d5"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "averageScore": 75,
+    "popularity": 43134
+  },
+  {
+    "id": 109957,
+    "title": {
+      "romaji": "Dubeon Saneun Ranker",
+      "native": "\ub450\ubc88\uc0ac\ub294\ub7ad\ucee4"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 77,
+    "popularity": 43031
+  },
+  {
+    "id": 123573,
+    "title": {
+      "romaji": "Baekjakgaui Mangnaniga Doeeotda",
+      "native": "\ubc31\uc791\uac00\uc758 \ub9dd\ub098\ub2c8\uac00 \ub418\uc5c8\ub2e4"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": 78,
+    "popularity": 42253
+  },
+  {
+    "id": 85802,
+    "title": {
+      "romaji": "Domestic na Kanojo",
+      "native": "\u30c9\u30e1\u30b9\u30c6\u30a3\u30c3\u30af\u306a\u5f7c\u5973"
+    },
+    "genres": [
+      "Drama",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 68,
+    "popularity": 42079
+  },
+  {
+    "id": 119174,
+    "title": {
+      "romaji": "The Boxer",
+      "native": "\ub354 \ubcf5\uc11c"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Sports"
+    ],
+    "averageScore": 83,
+    "popularity": 41950
+  },
+  {
+    "id": 43492,
+    "title": {
+      "romaji": "Ao no Exorcist",
+      "native": "\u9752\u306e\u7953\u9b54\u5e2b"
+    },
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "averageScore": 76,
+    "popularity": 41774
+  },
+  {
+    "id": 38848,
+    "title": {
+      "romaji": "Sun-Ken Rock",
+      "native": "\u30b5\u30f3\u30b1\u30f3\u30ed\u30c3\u30af"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Ecchi"
+    ],
+    "averageScore": 75,
+    "popularity": 41733
+  },
+  {
+    "id": 144957,
+    "title": {
+      "romaji": "Myeolmang Ihuui Segye",
+      "native": "\uba78\ub9dd \uc774\ud6c4\uc758 \uc138\uacc4"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 76,
+    "popularity": 41679
+  },
+  {
+    "id": 86136,
+    "title": {
+      "romaji": "Happiness",
+      "native": "\u30cf\u30d4\u30cd\u30b9"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Supernatural"
+    ],
+    "averageScore": 73,
+    "popularity": 41330
+  },
+  {
+    "id": 150378,
+    "title": {
+      "romaji": "Gokurakugai",
+      "native": "\u6975\u697d\u8857"
+    },
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "averageScore": 76,
+    "popularity": 41324
+  },
+  {
+    "id": 30024,
+    "title": {
+      "romaji": "D.Gray-man",
+      "native": "\u30c7\u30a3\u30fc\u30fb\u30b0\u30ec\u30a4\u30de\u30f3"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 81,
+    "popularity": 41319
+  },
+  {
+    "id": 86099,
+    "title": {
+      "romaji": "Wind Breaker",
+      "native": "\uc708\ub4dc\ube0c\ub808\uc774\ucee4"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "averageScore": 84,
+    "popularity": 41249
+  },
+  {
+    "id": 44440,
+    "title": {
+      "romaji": "I Am a Hero",
+      "native": "\u30a2\u30a4\u30a2\u30e0\u30a2\u30d2\u30fc\u30ed\u30fc"
+    },
+    "genres": [
+      "Action",
+      "Horror",
+      "Psychological"
+    ],
+    "averageScore": 74,
+    "popularity": 41124
+  },
+  {
+    "id": 30912,
+    "title": {
+      "romaji": "Tomie",
+      "native": "\u5bcc\u6c5f"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Supernatural",
+      "Thriller"
+    ],
+    "averageScore": 76,
+    "popularity": 41068
+  },
+  {
+    "id": 112981,
+    "title": {
+      "romaji": "Kubo-san wa Mob wo Yurusanai",
+      "native": "\u4e45\u4fdd\u3055\u3093\u306f\u50d5\u3092\u8a31\u3055\u306a\u3044"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 78,
+    "popularity": 41032
+  },
+  {
+    "id": 163824,
+    "title": {
+      "romaji": "Cheolhyeolgeomga Sanyanggaeui Hoegwi",
+      "native": "\ucca0\ud608\uac80\uac00 \uc0ac\ub0e5\uac1c\uc758 \ud68c\uadc0"
+    },
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "averageScore": 80,
+    "popularity": 41001
+  },
+  {
+    "id": 94970,
+    "title": {
+      "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+      "native": "\u3088\u3046\u3053\u305d\u5b9f\u529b\u81f3\u4e0a\u4e3b\u7fa9\u306e\u6559\u5ba4\u3078"
+    },
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Slice of Life",
+      "Thriller"
+    ],
+    "averageScore": 84,
+    "popularity": 40829
+  },
+  {
+    "id": 132144,
+    "title": {
+      "romaji": "Hwasangwihwan",
+      "native": "\ud654\uc0b0\uadc0\ud658"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 84,
+    "popularity": 40653
+  },
+  {
+    "id": 85911,
+    "title": {
+      "romaji": "Tomodachi Game",
+      "native": "\u30c8\u30e2\u30c0\u30c1\u30b2\u30fc\u30e0"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological"
+    ],
+    "averageScore": 81,
+    "popularity": 40544
+  },
+  {
+    "id": 149332,
+    "title": {
+      "romaji": "Geomsulmyeongga Mangnaeadeul",
+      "native": "\uac80\uc220\uba85\uac00 \ub9c9\ub0b4\uc544\ub4e4"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 79,
+    "popularity": 40384
+  },
+  {
+    "id": 85316,
+    "title": {
+      "romaji": "Dead Dead Demon's Dededededestruction",
+      "native": "\u30c7\u30c3\u30c9\u30c7\u30c3\u30c9\u30c7\u30fc\u30e2\u30f3\u30ba\u30c7\u30c7\u30c7\u30c7\u30c7\u30b9\u30c8\u30e9\u30af\u30b7\u30e7\u30f3"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "averageScore": 81,
+    "popularity": 40298
+  },
+  {
+    "id": 101177,
+    "title": {
+      "romaji": "Tonikaku Kawaii",
+      "native": "\u30c8\u30cb\u30ab\u30af\u30ab\u30ef\u30a4\u30a4"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 80,
+    "popularity": 40290
+  },
+  {
+    "id": 87347,
+    "title": {
+      "romaji": "Given",
+      "native": "\u30ae\u30f4\u30f3"
+    },
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 84,
+    "popularity": 40097
+  },
+  {
+    "id": 63031,
+    "title": {
+      "romaji": "Imawa no Kuni no Alice",
+      "native": "\u4eca\u969b\u306e\u56fd\u306e\u30a2\u30ea\u30b9"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "averageScore": 82,
+    "popularity": 40090
+  },
+  {
+    "id": 159441,
+    "title": {
+      "romaji": "Pick Me Up!",
+      "native": "\ud53d \ubbf8 \uc5c5!"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 83,
+    "popularity": 39995
+  },
+  {
+    "id": 98334,
+    "title": {
+      "romaji": "Ao no Flag",
+      "native": "\u9752\u306e\u30d5\u30e9\u30c3\u30b0"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "averageScore": 80,
+    "popularity": 39853
+  },
+  {
+    "id": 107282,
+    "title": {
+      "romaji": "Kawaii dake ja Nai Shikimori-san",
+      "native": "\u53ef\u611b\u3044\u3060\u3051\u3058\u3083\u306a\u3044\u5f0f\u5b88\u3055\u3093"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 74,
+    "popularity": 39794
+  },
+  {
+    "id": 118408,
+    "title": {
+      "romaji": "Agyeogui Ending Jugeumppun",
+      "native": "\uc545\uc5ed\uc758 \uc5d4\ub529\uc740 \uc8fd\uc74c\ubfd0"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Romance"
+    ],
+    "averageScore": 84,
+    "popularity": 39616
+  },
+  {
+    "id": 138603,
+    "title": {
+      "romaji": "Hikaru ga Shinda Natsu",
+      "native": "\u5149\u304c\u6b7b\u3093\u3060\u590f"
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "averageScore": 83,
+    "popularity": 39413
+  },
+  {
+    "id": 38586,
+    "title": {
+      "romaji": "The Breaker",
+      "native": "\ube0c\ub808\uc774\ucee4"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "averageScore": 80,
+    "popularity": 38816
+  },
+  {
+    "id": 33008,
+    "title": {
+      "romaji": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+      "native": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u9ec4\u91d1\u306e\u98a8"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "averageScore": 80,
+    "popularity": 38681
+  },
+  {
+    "id": 136220,
+    "title": {
+      "romaji": "Tusinjeonsaenggi",
+      "native": "\ud22c\uc2e0\uc804\uc0dd\uae30"
+    },
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "averageScore": 79,
+    "popularity": 38626
+  },
+  {
+    "id": 107521,
+    "title": {
+      "romaji": "Eoneu Nal Gongjuga Doeeobeoryeotda",
+      "native": "\uc5b4\ub290 \ub0a0 \uacf5\uc8fc\uac00 \ub418\uc5b4\ubc84\ub838\ub2e4"
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 83,
+    "popularity": 38435
+  },
+  {
+    "id": 65573,
+    "title": {
+      "romaji": "orange",
+      "native": "orange [\u30aa\u30ec\u30f3\u30b8]"
+    },
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "averageScore": 79,
+    "popularity": 38240
+  },
+  {
+    "id": 85734,
+    "title": {
+      "romaji": "Tamen De Gushi",
+      "native": "\u5979\u4eec\u7684\u6545\u4e8b"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 82,
+    "popularity": 37734
+  },
+  {
+    "id": 33866,
+    "title": {
+      "romaji": "Kuroshitsuji",
+      "native": "\u9ed2\u57f7\u4e8b"
+    },
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "averageScore": 81,
+    "popularity": 37709
+  },
+  {
+    "id": 41054,
+    "title": {
+      "romaji": "Billy Bat",
+      "native": "\u30d3\u30ea\u30fc\u30d0\u30c3\u30c8"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Supernatural",
+      "Thriller"
+    ],
+    "averageScore": 85,
+    "popularity": 37609
+  },
+  {
+    "id": 30698,
+    "title": {
+      "romaji": "Shin Seiki Evangelion",
+      "native": "\u65b0\u4e16\u7d00\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "averageScore": 84,
+    "popularity": 37425
+  },
+  {
+    "id": 114416,
+    "title": {
+      "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
+      "native": "\u541b\u306e\u3053\u3068\u304c\u5927\u5927\u5927\u5927\u5927\u597d\u304d\u306a100\u4eba\u306e\u5f7c\u5973"
+    },
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 77,
+    "popularity": 37389
+  },
+  {
+    "id": 147149,
+    "title": {
+      "romaji": "Super no Ura de Yani Suu Futari",
+      "native": "\u30b9\u30fc\u30d1\u30fc\u306e\u88cf\u3067\u30e4\u30cb\u5438\u3046\u3075\u305f\u308a"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 80,
+    "popularity": 37081
+  },
+  {
+    "id": 55297,
+    "title": {
+      "romaji": "Prison School",
+      "native": "\u76e3\u7344\u5b66\u5712"
+    },
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Psychological",
+      "Romance"
+    ],
+    "averageScore": 72,
+    "popularity": 36924
+  },
+  {
+    "id": 85470,
+    "title": {
+      "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+      "native": "\u7121\u8077\u8ee2\u751f \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "averageScore": 84,
+    "popularity": 36849
+  },
+  {
+    "id": 118424,
+    "title": {
+      "romaji": "4000 Nyeon Mane Gwihwanhan Daemadosa",
+      "native": "4000\ub144 \ub9cc\uc5d0 \uadc0\ud658\ud55c \ub300\ub9c8\ub3c4\uc0ac"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 76,
+    "popularity": 36711
+  },
+  {
+    "id": 159930,
+    "title": {
+      "romaji": "Muhanui Mabeopsa",
+      "native": "\ubb34\ud55c\uc758 \ub9c8\ubc95\uc0ac"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 78,
+    "popularity": 36640
+  },
+  {
+    "id": 109501,
+    "title": {
+      "romaji": "Yamada-kun to Lv999 no Koi wo Suru",
+      "native": "\u5c71\u7530\u304f\u3093\u3068Lv999\u306e\u604b\u3092\u3059\u308b"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "averageScore": 80,
+    "popularity": 36614
+  },
+  {
+    "id": 31630,
+    "title": {
+      "romaji": "JoJo no Kimyou na Bouken: Sentou Chouryuu",
+      "native": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u6226\u95d8\u6f6e\u6d41"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "averageScore": 78,
+    "popularity": 36594
+  },
+  {
+    "id": 87208,
+    "title": {
+      "romaji": "Shimanami Tasogare",
+      "native": "\u3057\u307e\u306a\u307f\u8ab0\u305d\u5f7c"
+    },
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Slice of Life"
+    ],
+    "averageScore": 84,
+    "popularity": 36533
+  },
+  {
+    "id": 33378,
+    "title": {
+      "romaji": "Kimi ni Todoke",
+      "native": "\u541b\u306b\u5c4a\u3051"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 82,
+    "popularity": 36525
+  },
+  {
+    "id": 30743,
+    "title": {
+      "romaji": "21 Seiki Shounen",
+      "native": "21\u4e16\u7d00\u5c11\u5e74"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "averageScore": 82,
+    "popularity": 36299
+  },
+  {
+    "id": 117460,
+    "title": {
+      "romaji": "Temppal",
+      "native": "\ud15c\ube68"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": 77,
+    "popularity": 36292
+  },
+  {
+    "id": 143056,
+    "title": {
+      "romaji": "Jaeanggeup Yeongungnimi Gwihwanhasyeotda",
+      "native": "\uc7ac\uc559\uae09 \uc601\uc6c5\ub2d8\uc774 \uadc0\ud658\ud558\uc168\ub2e4"
+    },
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "averageScore": 75,
+    "popularity": 36170
+  },
+  {
+    "id": 32921,
+    "title": {
+      "romaji": "Kaichou wa Maid-sama!",
+      "native": "\u4f1a\u9577\u306f\u30e1\u30a4\u30c9\u69d8\uff01"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "averageScore": 81,
+    "popularity": 36075
+  },
+  {
+    "id": 87459,
+    "title": {
+      "romaji": "Sabishisugite Rezu Fuzoku ni Ikimashita Report",
+      "native": "\u3055\u3073\u3057\u3059\u304e\u3066\u30ec\u30ba\u98a8\u4fd7\u306b\u884c\u304d\u307e\u3057\u305f\u30ec\u30dd"
+    },
+    "genres": [
+      "Drama",
+      "Ecchi",
+      "Psychological",
+      "Slice of Life"
+    ],
+    "averageScore": 80,
+    "popularity": 36047
+  },
+  {
+    "id": 30004,
+    "title": {
+      "romaji": "Yokohama Kaidashi Kikou",
+      "native": "\u30e8\u30b3\u30cf\u30de\u8cb7\u3044\u51fa\u3057\u7d00\u884c"
+    },
+    "genres": [
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "averageScore": 86,
+    "popularity": 35917
+  },
+  {
+    "id": 99324,
+    "title": {
+      "romaji": "Mairimashita! Iruma-kun",
+      "native": "\u9b54\u5165\u308a\u307e\u3057\u305f\uff01\u5165\u9593\u304f\u3093"
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": 83,
+    "popularity": 35593
+  },
+  {
+    "id": 33006,
+    "title": {
+      "romaji": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+      "native": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u306f\u7815\u3051\u306a\u3044"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Supernatural"
+    ],
+    "averageScore": 84,
+    "popularity": 35514
+  },
+  {
+    "id": 116671,
+    "title": {
+      "romaji": "Juujika no Rokunin",
+      "native": "\u5341\u5b57\u67b6\u306e\u308d\u304f\u306b\u3093"
+    },
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Thriller"
+    ],
+    "averageScore": 62,
+    "popularity": 34969
+  },
+  {
+    "id": 111189,
+    "title": {
+      "romaji": "Yubisaki to Renren",
+      "native": "\u3086\u3073\u3055\u304d\u3068\u604b\u3005"
+    },
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 83,
+    "popularity": 34918
+  },
+  {
+    "id": 85442,
+    "title": {
+      "romaji": "Tate no Yuusha no Nariagari",
+      "native": "\u76fe\u306e\u52c7\u8005\u306e\u6210\u308a\u4e0a\u304c\u308a"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 72,
+    "popularity": 34868
+  },
+  {
+    "id": 86568,
+    "title": {
+      "romaji": "Vanitas no Carte",
+      "native": "\u30f4\u30a1\u30cb\u30bf\u30b9\u306e\u624b\u8a18"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "averageScore": 83,
+    "popularity": 34821
+  },
+  {
+    "id": 30872,
+    "title": {
+      "romaji": "JoJo no Kimyou na Bouken: Stardust Crusaders",
+      "native": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8\u30af\u30eb\u30bb\u30a4\u30c0\u30fc\u30b9"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Supernatural"
+    ],
+    "averageScore": 78,
+    "popularity": 34782
+  },
+  {
+    "id": 105011,
+    "title": {
+      "romaji": "Fuufu Ijou, Koibito Miman.",
+      "native": "\u592b\u5a66\u4ee5\u4e0a\u3001\u604b\u4eba\u672a\u6e80\u3002"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Romance"
+    ],
+    "averageScore": 77,
+    "popularity": 34606
+  },
+  {
+    "id": 30007,
+    "title": {
+      "romaji": "Hajime no Ippo",
+      "native": "\u306f\u3058\u3081\u306e\u4e00\u6b69"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "averageScore": 87,
+    "popularity": 34347
+  },
+  {
+    "id": 110462,
+    "title": {
+      "romaji": "Dogul Wang",
+      "native": "\ub3c4\uad74\uc655"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 73,
+    "popularity": 34340
+  },
+  {
+    "id": 130511,
+    "title": {
+      "romaji": "Level-Up Motaneun Player",
+      "native": "\ub808\ubca8\uc5c5 \ubabb\ud558\ub294 \ud50c\ub808\uc774\uc5b4"
+    },
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "averageScore": 72,
+    "popularity": 34206
+  },
+  {
+    "id": 101557,
+    "title": {
+      "romaji": "Boku no Kokoro no Yabai Yatsu",
+      "native": "\u50d5\u306e\u5fc3\u306e\u30e4\u30d0\u30a4\u3084\u3064"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 81,
+    "popularity": 34206
+  },
+  {
+    "id": 30102,
+    "title": {
+      "romaji": "Fruits Basket",
+      "native": "\u30d5\u30eb\u30fc\u30c4\u30d0\u30b9\u30b1\u30c3\u30c8"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "averageScore": 85,
+    "popularity": 34166
+  },
+  {
+    "id": 59983,
+    "title": {
+      "romaji": "Noblesse",
+      "native": "\ub178\ube14\ub808\uc2a4"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Supernatural"
+    ],
+    "averageScore": 76,
+    "popularity": 34019
+  },
+  {
+    "id": 114605,
+    "title": {
+      "romaji": "Igye Geomwang Saengjongi",
+      "native": "\uc774\uacc4 \uac80\uc655 \uc0dd\uc874\uae30"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 76,
+    "popularity": 33902
+  },
+  {
+    "id": 86508,
+    "title": {
+      "romaji": "Dragon Ball Super",
+      "native": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u8d85"
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageScore": 72,
+    "popularity": 33887
+  },
+  {
+    "id": 85165,
+    "title": {
+      "romaji": "Innocent",
+      "native": "\u30a4\u30ce\u30b5\u30f3"
+    },
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "averageScore": 81,
+    "popularity": 33885
+  },
+  {
+    "id": 47465,
+    "title": {
+      "romaji": "Omoide Emanon",
+      "native": "\u304a\u3082\u3044\u3067\u30a8\u30de\u30ce\u30f3"
+    },
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "averageScore": 78,
+    "popularity": 33738
+  },
+  {
+    "id": 98235,
+    "title": {
+      "romaji": "Bokutachi wa Benkyou ga Dekinai",
+      "native": "\u307c\u304f\u305f\u3061\u306f\u52c9\u5f37\u304c\u3067\u304d\u306a\u3044"
+    },
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 75,
+    "popularity": 33679
+  },
+  {
+    "id": 98361,
+    "title": {
+      "romaji": "Mikkakan no Koufuku",
+      "native": "\u4e09\u65e5\u9593\u306e\u5e78\u798f"
+    },
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "averageScore": 88,
+    "popularity": 33629
+  },
+  {
+    "id": 31224,
+    "title": {
+      "romaji": "3-gatsu no Lion",
+      "native": "3\u6708\u306e\u30e9\u30a4\u30aa\u30f3"
+    },
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "averageScore": 87,
+    "popularity": 33484
+  },
+  {
+    "id": 151512,
+    "title": {
+      "romaji": "Bireomeogeul Hwansaeng",
+      "native": "\ube4c\uc5b4\uba39\uc744 \ud658\uc0dd"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 78,
+    "popularity": 33259
+  },
+  {
+    "id": 65003,
+    "title": {
+      "romaji": "Yamada-kun to 7-nin no Majo",
+      "native": "\u5c71\u7530\u304f\u3093\u30687\u4eba\u306e\u9b54\u5973"
+    },
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Supernatural"
+    ],
+    "averageScore": 77,
+    "popularity": 33213
+  },
+  {
+    "id": 113501,
+    "title": {
+      "romaji": "Kaette Kudasai! Akutsu-san",
+      "native": "\u5e30\u3063\u3066\u304f\u3060\u3055\u3044! \u963f\u4e45\u6d25\u3055\u3093"
+    },
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 72,
+    "popularity": 32774
+  },
+  {
+    "id": 31649,
+    "title": {
+      "romaji": "LIAR GAME",
+      "native": "LIAR GAME"
+    },
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "averageScore": 78,
+    "popularity": 32606
+  },
+  {
+    "id": 76716,
+    "title": {
+      "romaji": "Masamune-kun no Revenge",
+      "native": "\u653f\u5b97\u304f\u3093\u306e\u30ea\u30d9\u30f3\u30b8"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "averageScore": 70,
+    "popularity": 32514
+  },
+  {
+    "id": 150440,
+    "title": {
+      "romaji": "Ruri Dragon",
+      "native": "\u30eb\u30ea\u30c9\u30e9\u30b4\u30f3"
+    },
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "averageScore": 77,
+    "popularity": 32493
+  },
+  {
+    "id": 47353,
+    "title": {
+      "romaji": "Umibe no Onnanoko",
+      "native": "\u3046\u307f\u3079\u306e\u5973\u306e\u5b50"
+    },
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 69,
+    "popularity": 32036
+  },
+  {
+    "id": 30145,
+    "title": {
+      "romaji": "BECK",
+      "native": "BECK"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 86,
+    "popularity": 32000
+  },
+  {
+    "id": 30401,
+    "title": {
+      "romaji": "Kiseijuu",
+      "native": "\u5bc4\u751f\u7363"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "averageScore": 82,
+    "popularity": 31861
+  },
+  {
+    "id": 109285,
+    "title": {
+      "romaji": "Skip to Loafer",
+      "native": "\u30b9\u30ad\u30c3\u30d7\u3068\u30ed\u30fc\u30d5\u30a1\u30fc"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 86,
+    "popularity": 31794
+  },
+  {
+    "id": 80145,
+    "title": {
+      "romaji": "citrus",
+      "native": "citrus"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "averageScore": 70,
+    "popularity": 31648
+  },
+  {
+    "id": 30658,
+    "title": {
+      "romaji": "Mugen no Juunin",
+      "native": "\u7121\u9650\u306e\u4f4f\u4eba"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "averageScore": 83,
+    "popularity": 31347
+  },
+  {
+    "id": 86707,
+    "title": {
+      "romaji": "Yao Shen Ji",
+      "native": "\u5996\u795e\u8bb0"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 77,
+    "popularity": 31332
+  },
+  {
+    "id": 39982,
+    "title": {
+      "romaji": "Usogui",
+      "native": "\u5618\u55b0\u3044"
+    },
+    "genres": [
+      "Action",
+      "Psychological",
+      "Thriller"
+    ],
+    "averageScore": 86,
+    "popularity": 31310
+  },
+  {
+    "id": 33285,
+    "title": {
+      "romaji": "Holyland",
+      "native": "\u30db\u30fc\u30ea\u30fc\u30e9\u30f3\u30c9"
+    },
+    "genres": [
+      "Action",
+      "Psychological"
+    ],
+    "averageScore": 82,
+    "popularity": 31275
+  },
+  {
+    "id": 115122,
+    "title": {
+      "romaji": "DEATH NOTE: Tokubetsu Yomikiri",
+      "native": "DEATH NOTE \u7279\u5225\u8aad\u5207"
+    },
+    "genres": [
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "averageScore": 73,
+    "popularity": 31102
+  },
+  {
+    "id": 112579,
+    "title": {
+      "romaji": "My Broken Mariko",
+      "native": "\u30de\u30a4\u30fb\u30d6\u30ed\u30fc\u30af\u30f3\u30fb\u30de\u30ea\u30b3"
+    },
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "averageScore": 78,
+    "popularity": 30976
+  },
+  {
+    "id": 110473,
+    "title": {
+      "romaji": "Kimi wa Houkago Insomnia",
+      "native": "\u541b\u306f\u653e\u8ab2\u5f8c\u30a4\u30f3\u30bd\u30e0\u30cb\u30a2"
+    },
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 83,
+    "popularity": 30956
+  },
+  {
+    "id": 30044,
+    "title": {
+      "romaji": "Gintama",
+      "native": "\u9280\u9b42"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "averageScore": 86,
+    "popularity": 30948
+  },
+  {
+    "id": 179445,
+    "title": {
+      "romaji": "Na Honjaman Level Up: Ragnarok",
+      "native": "\ub098 \ud63c\uc790\ub9cc \ub808\ubca8\uc5c5 : \ub77c\uadf8\ub098\ub85c\ud06c"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 75,
+    "popularity": 30641
+  },
+  {
+    "id": 66267,
+    "title": {
+      "romaji": "Boku wa Mari no Naka",
+      "native": "\u307c\u304f\u306f\u9ebb\u7406\u306e\u306a\u304b"
+    },
+    "genres": [
+      "Drama",
+      "Ecchi",
+      "Mystery",
+      "Psychological",
+      "Thriller"
+    ],
+    "averageScore": 75,
+    "popularity": 30537
+  },
+  {
+    "id": 43702,
+    "title": {
+      "romaji": "Tonari no Kaibutsu-kun",
+      "native": "\u3068\u306a\u308a\u306e\u602a\u7269\u304f\u3093"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 78,
+    "popularity": 30416
+  },
+  {
+    "id": 87321,
+    "title": {
+      "romaji": "Goblin Slayer",
+      "native": "\u30b4\u30d6\u30ea\u30f3\u30b9\u30ec\u30a4\u30e4\u30fc"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 74,
+    "popularity": 30388
+  },
+  {
+    "id": 135325,
+    "title": {
+      "romaji": "Natae Gongja, Nolyeog Cheonjae Doeda",
+      "native": "\ub098\ud0dc \uacf5\uc790, \ub178\ub825 \ucc9c\uc7ac \ub418\ub2e4"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 77,
+    "popularity": 30370
+  },
+  {
+    "id": 41734,
+    "title": {
+      "romaji": "Watashitachi no Shiawase na Jikan",
+      "native": "\u79c1\u305f\u3061\u306e\u5e78\u305b\u306a\u6642\u9593"
+    },
+    "genres": [
+      "Drama",
+      "Music",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 80,
+    "popularity": 30335
+  },
+  {
+    "id": 85533,
+    "title": {
+      "romaji": "Karakai Jouzu no Takagi-san",
+      "native": "\u304b\u3089\u304b\u3044\u4e0a\u624b\u306e\u9ad8\u6728\u3055\u3093"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 79,
+    "popularity": 30218
+  },
+  {
+    "id": 30768,
+    "title": {
+      "romaji": "GUNNM",
+      "native": "\u9283\u5922"
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageScore": 81,
+    "popularity": 30154
+  },
+  {
+    "id": 106867,
+    "title": {
+      "romaji": "Shinai naru Boku e Satsui wo Komete",
+      "native": "\u89aa\u611b\u306a\u308b\u50d5\u3078\u6bba\u610f\u3092\u3053\u3081\u3066"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Slice of Life",
+      "Thriller"
+    ],
+    "averageScore": 81,
+    "popularity": 30100
+  },
+  {
+    "id": 125636,
+    "title": {
+      "romaji": "Mallep Yeongungnim Kkeseo Gwihwan Hasinda!",
+      "native": "\ub9cc\ub819 \uc601\uc6c5\ub2d8 \uaed8\uc11c \uadc0\ud658 \ud558\uc2e0\ub2e4!"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 72,
+    "popularity": 30070
+  },
+  {
+    "id": 153284,
+    "title": {
+      "romaji": "Man Nyeon Mane Gwihwanhan Player",
+      "native": "\ub9cc \ub144 \ub9cc\uc5d0 \uadc0\ud658\ud55c \ud50c\ub808\uc774\uc5b4"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 75,
+    "popularity": 30012
+  },
+  {
+    "id": 142568,
+    "title": {
+      "romaji": "Takopii no Genzai",
+      "native": "\u30bf\u30b3\u30d4\u30fc\u306e\u539f\u7f6a"
+    },
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "averageScore": 77,
+    "popularity": 29962
+  },
+  {
+    "id": 100805,
+    "title": {
+      "romaji": "Here U Are",
+      "native": "Here U Are"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 85,
+    "popularity": 29643
+  },
+  {
+    "id": 94490,
+    "title": {
+      "romaji": "The Fable",
+      "native": "\u30b6\u30fb\u30d5\u30a1\u30d6\u30eb"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "averageScore": 84,
+    "popularity": 29614
+  },
+  {
+    "id": 30756,
+    "title": {
+      "romaji": "BANANA FISH",
+      "native": "BANANA FISH"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Psychological",
+      "Thriller"
+    ],
+    "averageScore": 85,
+    "popularity": 29601
+  },
+  {
+    "id": 104660,
+    "title": {
+      "romaji": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
+      "native": "\u30be\u30f3100 \uff5e\u30be\u30f3\u30d3\u306b\u306a\u308b\u307e\u3067\u306b\u3057\u305f\u3044100\u306e\u3053\u3068\uff5e"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "averageScore": 74,
+    "popularity": 29390
+  }
+]
