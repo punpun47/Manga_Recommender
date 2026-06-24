@@ -11,6 +11,13 @@ for manga in manga_list:
    all_genres.extend(manga["genres"])
 all_genres = sorted(set(all_genres))
 
+# Get list of all unique tags(num of tags is 330)
+all_tags = []
+for manga in manga_list:
+    all_tags += [tag["name"] for tag in manga["tags"]]
+all_tags = sorted(set(all_tags))
+
+
 # Build manga vector using one hot encoding
 manga_vectors = []
 for manga in manga_list:
@@ -20,7 +27,17 @@ for manga in manga_list:
             vector.append(1)
         else:
             vector.append(0)
+
+    # creating dict of tags for easier access
+    tags_dict = {item["name"]:item["rank"] for item in manga["tags"]}
+
+    # incorporating tags into manga vector
+    for tag in all_tags:
+        vector.append(tags_dict.get(tag, 0))
+
+
     manga_vectors.append(vector)
+
     
 
 def cosine_similarity(a, b):
@@ -56,6 +73,9 @@ def get_recommendations(manga_index, n):
     recommendations.sort(reverse = True)
     recommendations = recommendations[:n]
     return recommendations
+
+#test
+print(get_recommendations(4, 15))
 
 
     

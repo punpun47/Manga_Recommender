@@ -19,6 +19,10 @@ for i in range(1, 6):
         genres
         averageScore
         popularity
+        tags {{
+            name
+            rank
+        }}
         }}
     }}
     }}
