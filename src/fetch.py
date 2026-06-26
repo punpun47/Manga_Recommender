@@ -7,7 +7,7 @@ manga_list = []
 
 # loop because anilist caps requests at 50 manga
 # doubled {, } to avoid syntax errors with .format()
-for i in range(1, 6):
+for i in range(1, 21):
     query = """
     query {{
     Page(page: {0}, perPage: 50) {{
@@ -15,7 +15,8 @@ for i in range(1, 6):
         id
         title {{
             romaji
-            native }}
+            native 
+            english }}
         genres
         averageScore
         popularity
