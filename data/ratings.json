@@ -1,0 +1,86 @@
+[
+  {
+    "manga_id": 34632,
+    "rating": 98,
+    "status": "Completed",
+    "date_completed": "2026-06-27"
+  },
+  {
+    "manga_id": 30002,
+    "rating": 96,
+    "status": "Releasing",
+    "date_completed": "2026-06-28"
+  },
+  {
+    "manga_id": 30013,
+    "rating": 97,
+    "status": "Releasing",
+    "date_completed": "2026-06-28"
+  },
+  {
+    "manga_id": 53390,
+    "rating": 94,
+    "status": "Completed",
+    "date_completed": "2026-06-28"
+  },
+  {
+    "manga_id": 74347,
+    "rating": 95,
+    "status": "Releasing",
+    "date_completed": "2026-06-28"
+  },
+  {
+    "manga_id": 30642,
+    "rating": 98,
+    "status": "Completed",
+    "date_completed": "2026-06-28"
+  },
+  {
+    "manga_id": 30026,
+    "rating": 96,
+    "status": "Releasing",
+    "date_completed": "2026-06-28"
+  },
+  {
+    "manga_id": 30021,
+    "rating": 97,
+    "status": "Completed",
+    "date_completed": "2026-06-28"
+  },
+  {
+    "manga_id": 30011,
+    "rating": 93,
+    "status": "Completed",
+    "date_completed": "2026-06-28"
+  },
+  {
+    "manga_id": 85135,
+    "rating": 99,
+    "status": "Completed",
+    "date_completed": "2026-06-28"
+  },
+  {
+    "manga_id": 118586,
+    "rating": 96,
+    "status": "Completed",
+    "date_completed": "2026-06-28"
+  },
+  {
+    "manga_id": 140475,
+    "rating": 100,
+    "status": "Releasing",
+    "date_completed": "2026-06-28"
+  },
+  {
+    "manga_id": 105469,
+    "rating": 90,
+    "status": "Completed",
+    "date_completed": "2026-06-28"
+  },
+  {
+    "manga_id": 67707,
+    "rating": 99,
+    "status": "Completed",
+    "date_completed": "2026-06-28"
+  }
+]

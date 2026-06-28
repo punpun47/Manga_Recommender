@@ -37,7 +37,7 @@ for manga in manga_list:
 
     # incorporating tags into manga vector
     for tag in all_tags:
-        vector.append(tags_dict.get(tag, 0))
+        vector.append(tags_dict.get(tag, 0) / 100)
 
 
     manga_vectors.append(vector)
@@ -100,17 +100,63 @@ def get_recommendations_np(manga_index, n):
     return [(similarities[i], manga_list[i]["title"]["english"]) for i in indices]
 
 
-def get_index(manga_name):
+def name_to_index(manga_name):
     """Input a manga's name(in english) and function returns the index of that manga in manga_list"""
     for i, manga in enumerate(manga_list):
         if manga["title"]["english"] == manga_name:
             return i
 
+
+
+def id_to_index(manga_id):
+    """Input a Manga's id and returns that Manga's index in manga_list"""
+    for i, manga in enumerate(manga_list):
+        if manga["id"] == manga_id:
+            return i
+        
+def load_ratings():
+    with open("../data/ratings.json", "r") as file:
+        return json.load(file)
+
+
+
+def build_taste_profile():
+    ratings = load_ratings()
+    taste_vector = np.zeros(403) # Creates a 1D array of 403 zeroes
+    total_ratings = 0
+    for rating in ratings:
+        index = id_to_index(rating["manga_id"])
+        taste_vector += manga_matrix[index] * rating["rating"]
+        total_ratings += rating["rating"]
+    taste_vector = taste_vector / total_ratings
+    return taste_vector
+
+def get_taste_recommendations(n):
+    taste_vector = build_taste_profile()
+    dots = np.dot(taste_vector, manga_matrix.T)
+    norms = np.linalg.norm(manga_matrix, axis = 1)
+    denom = np.linalg.norm(taste_vector) * norms
+
+    similarities = dots / denom
+    indices = np.argsort(similarities)[::-1][:n]
+    return [(similarities[i], manga_list[i]["title"]["english"]) for i in indices]
+
+
 #TESTING
-#print(get_recommendations(8, 15))
-#print(get_recommendations_np(8, 15))
-end = time.perf_counter() # used to calculate time taken for program to run 
-print(f"time: {end - start:.2f}")
+
+print(get_taste_recommendations(30))
+
+# ratings = load_ratings()
+# for rating in ratings:
+#     print(id_to_index(rating["manga_id"]), manga_list[id_to_index(rating["manga_id"])]["title"]["romaji"])
+
+# taste_vector = build_taste_profile()
+# print(taste_vector)
+# top_indices = np.argsort(taste_vector)[::-1][:10]
+# all_features = all_genres + all_tags
+# for i in top_indices:
+#     print(all_features[i], taste_vector[i])
+
 
 
 
