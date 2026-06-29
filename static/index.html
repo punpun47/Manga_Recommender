@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Manga Recommender</title>
+</head>
+<body>
+    <h1>Manga Recommender</h1>
+    <button onclick="getRecommendations()">Get Recommendations</button>
+    <div id="results"></div>
+
+    <script>
+        async function getRecommendations() {
+            const response = await fetch("http://127.0.0.1:8000/recommendations/taste")
+            const data = await response.json()
+            
+            const resultsDiv = document.getElementById("results")
+            resultsDiv.innerHTML = ""
+
+            data.forEach((item, index) => {
+                    resultsDiv.innerHTML += `<p>${index + 1}. ${item[1]} (${item[0].toFixed(2)})</p>`
+            })
+        }
+    </script>
+</body>
+</html>

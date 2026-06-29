@@ -1,10 +1,22 @@
 from fastapi import FastAPI
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 from ratings import add_rating
 from recommend import get_recommendations_np, get_taste_recommendations, name_to_index
+from fastapi.middleware.cors import CORSMiddleware
 import json
 
 app = FastAPI()
+
+#To get around browser blocking the reequest
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+app.mount("/static", StaticFiles(directory="../static"), name="static")
 
 @app.get("/")
 def root():

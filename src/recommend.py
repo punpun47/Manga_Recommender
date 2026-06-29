@@ -69,7 +69,7 @@ def get_recommendations_np(manga_index, n):
     similarities = dots / denom
     similarities[manga_index] = -1
     indices = np.argsort(similarities)[::-1][:n]
-    return [(similarities[i], manga_list[i]["title"]["english"]) for i in indices]
+    return [(similarities[i], manga_list[i]["title"]["english"] or manga_list[i]["title"]["romaji"]) for i in indices]
 
 
 def name_to_index(manga_name):
@@ -113,4 +113,4 @@ def get_taste_recommendations(n):
 
     similarities = dots / denom
     indices = np.argsort(similarities)[::-1][:n]
-    return [(similarities[i], manga_list[i]["title"]["english"]) for i in indices]
+    return [(similarities[i], manga_list[i]["title"]["english"] or manga_list[i]["title"]["romaji"]) for i in indices]
