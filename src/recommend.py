@@ -131,8 +131,8 @@ def build_taste_profile():
     total_ratings = 0
     for rating in ratings:
         index = id_to_index(rating["manga_id"], manga_list)
-        taste_vector += manga_matrix[index] * rating["rating"]
-        total_ratings += rating["rating"]
+        taste_vector += manga_matrix[index] * float(rating["rating"])
+        total_ratings += float(rating["rating"])
     taste_vector = taste_vector / total_ratings
     return taste_vector
 
@@ -150,10 +150,10 @@ def get_taste_recommendations(n):
 
 
 if __name__ == "__main__":
+    pass
 
     #TESTING
 
-    print(get_taste_recommendations(30))
 
     # ratings = load_ratings()
     # for rating in ratings:
