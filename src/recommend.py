@@ -50,23 +50,6 @@ def set_up():
 
 manga_list, manga_matrix, all_genres, all_tags = set_up()
 
-def cosine_similarity(a, b):
-    """Find the angle between two vectors"""
-    a_squared = [element*element for element in a]
-    magnitude_a = math.sqrt(math.fsum(a_squared))
-
-    b_squared = [element*element for element in b]
-    magnitude_b = math.sqrt(math.fsum(b_squared))
-
-    dot_product = 0
-    for x, y in zip(a, b):
-        dot_product += x*y
-    try:
-      RHS = dot_product / (magnitude_a * magnitude_b)
-    except ZeroDivisionError:
-        print("Can't divide by Zero")
-        return None
-    return RHS
 
 def cosine_similarity_np(a, b):
     """Get the angle between two vectors using numpy"""
@@ -76,21 +59,6 @@ def cosine_similarity_np(a, b):
     return dot_product / (magnitude_a * magnitude_b)
 
 
-
-def get_recommendations(manga_index, n):
-    """Return the top n recommendations for a manga at manga_index using cosine_similarity function"""
-    recommendations = []
-    for i in range(len(manga_list)):
-        if i == manga_index:
-            continue
-        similarity = cosine_similarity(manga_vectors[manga_index], manga_vectors[i])
-        manga_name = manga_list[i]["title"]["english"]
-        recommendations.append([similarity, manga_name])
-    
-    # Sort list in descending order then remove any elements beyond index n
-    recommendations.sort(reverse = True)
-    recommendations = recommendations[:n]
-    return recommendations
 
 def get_recommendations_np(manga_index, n):
     """Return the top n recommendations for a manga at manga_index using cosine_similarity function using numpy"""
@@ -145,27 +113,6 @@ def get_taste_recommendations(n):
     similarities = dots / denom
     indices = np.argsort(similarities)[::-1][:n]
     return [(similarities[i], manga_list[i]["title"]["english"]) for i in indices]
-
-
-
-
-if __name__ == "__main__":
-    pass
-
-    #TESTING
-
-
-    # ratings = load_ratings()
-    # for rating in ratings:
-    #     print(id_to_index(rating["manga_id"]), manga_list[id_to_index(rating["manga_id"])]["title"]["romaji"])
-
-    # taste_vector = build_taste_profile()
-    # print(taste_vector)
-    # top_indices = np.argsort(taste_vector)[::-1][:10]
-    # all_features = all_genres + all_tags
-    # for i in top_indices:
-    #     print(all_features[i], taste_vector[i])
-
 
 
 

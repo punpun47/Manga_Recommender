@@ -24,15 +24,3 @@ def add_rating(manga_id, rating, status):
     manga_ratings.append(manga_dict)
     save_ratings(manga_ratings)
 
-# TESTING
-add_rating(30642, 98.1, "Completed")
-add_rating(30026, 95.9, "Releasing")
-add_rating(30021, 96.9, "Completed")
-add_rating(30011, 93.1, "Completed")
-add_rating(85135, 99.0, "Completed")
-add_rating(118586, 96, "Completed")
-add_rating(140475, 100, "Releasing")
-add_rating(105469, 90, "Completed")
-add_rating(67707, 99, "Completed")
-
-
