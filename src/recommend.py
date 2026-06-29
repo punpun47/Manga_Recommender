@@ -1,5 +1,4 @@
 import json
-import math
 import time
 import numpy as np
 
@@ -99,6 +98,8 @@ def build_taste_profile():
     total_ratings = 0
     for rating in ratings:
         index = id_to_index(rating["manga_id"], manga_list)
+        if index is None:
+            continue
         taste_vector += manga_matrix[index] * float(rating["rating"])
         total_ratings += float(rating["rating"])
     taste_vector = taste_vector / total_ratings
@@ -113,12 +114,3 @@ def get_taste_recommendations(n):
     similarities = dots / denom
     indices = np.argsort(similarities)[::-1][:n]
     return [(similarities[i], manga_list[i]["title"]["english"]) for i in indices]
-
-
-
-
-
-    
-
-
-
